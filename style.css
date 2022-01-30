@@ -1,0 +1,157 @@
+body{
+    margin: 0px;
+    background-color: rgb(240, 218, 190);
+}
+._1
+{   text-shadow: 1.5px 1.5px #906d6d;
+    height: 120px;
+    width: 300px;
+    display: inline-block;
+    border: 6px solid red;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgb(240, 133, 133);
+    background-color: rgba(169, 169, 169, 0.544);
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+._2
+{  
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   display: inline-block;
+   font-size: 30px;
+   color:rgb(21, 56, 230);
+   margin-top:10px;
+   padding: 0px;
+   /* text-shadow: 2px 2px #2998d0; */
+}
+._3
+{
+    border: 4px solid gray;
+    height:800px;
+    width: 99.5%;
+    margin-bottom: 50px;
+    background-color: antiquewhite;
+}
+#b
+{
+    background-color: skyblue;
+}
+._4
+{   
+    height:250px;
+    width:250px;
+    padding: 20px;
+    background-color: burlywood;
+    border: 9px groove cornflowerblue;
+    border-radius: 20px;
+    font-size:20px;
+    text-shadow: 2px 2px #ff0000;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+#_18
+{
+   
+}
+#_5
+{   
+    position:relative;
+    left:1200px;
+    bottom:268px;
+    
+}
+#_6
+{   
+    position:relative;
+    left:30px;
+    bottom:130px;
+}
+#_7
+{  
+    position:absolute;
+    bottom:400px;
+    left: 1150px;
+    font-size: 1.5rem;
+    top: 700px;
+}
+#_20
+{
+    margin-top: 20px;
+}
+#_8
+{    display: inline-block;
+    background: rgb(223, 47, 47);
+    height: 100px;
+    width: 450px;
+    position: fixed;
+    z-index:2;
+    left: 500px;
+    bottom: 100px;
+    border: 8px solid tan;
+    border-radius: 20px;
+    box-shadow: 3px 3px grey;
+}
+.flex-container
+ {  
+    height: 500px;
+    width: 50%;
+    background-color: palegoldenrod;
+    border: 5px solid goldenrod;
+}
+  .flex-item
+ {  
+     background-color:lightgreen;
+     height:200px;
+     width: 288px;
+     margin: 0px;
+     border: 2px solid rgb(13, 20, 3);
+     position: relative;
+     
+     
+ }
+
+ 
+ #_9
+ {   
+  width: 360px;
+  margin-right: 380px;
+  top:40px;
+  
+ }
+ #_10
+ {   
+  width: 360px;
+  bottom: 234px;
+  left: 190px;
+  bottom: 164px;
+  /* margin-left:20px; */
+ }
+
+ #_11
+ {  position: relative;
+    left: 380px;
+    width:770px;
+    bottom: 250px;
+    bottom:220px; }
+font{
+    margin: 0px;
+    padding: 0px;
+    font-size: 25px;
+}
+span
+{
+    margin: 0px;
+    padding: 0px;
+}
+#_14
+{   font-size:25px;
+    position: relative;
+    left: 20px;
+    padding: 20px;
+}
+#_13
+{   font-size:20px;
+    position: relative;
+    left: 290px;
+    bottom: 70px;
+}
